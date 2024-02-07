@@ -1,0 +1,166 @@
+.Header {
+    border: 1px solid black;
+    width: 98vw; /*view width */
+    height: 120vh; /*view height */
+    background-color: black; 
+    background: url(capa.jpg);
+    background-size: cover; 
+    background-color:black;
+}
+
+body {
+    width: 98vw; /*view width */
+    margin: 0;
+    background-color:black;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+ul {
+    max-width: 750px;
+    display: flex; 
+    margin-left: 50px;
+    align-items:left top;
+    margin-top:10px;
+    justify-content: space-evenly; 
+    color: white; 
+    font-size: 20px;
+}
+
+a {
+    color:white;
+    text-decoration: none; 
+}
+
+.titulo1 {
+    color: rgb(177, 163, 163);
+    font-size: 30px;
+    margin-left: 550px;
+}
+
+.Categorias {
+    color: rgb(177, 163, 163);
+    display: flex;
+    justify-content: space-evenly;
+    align-items:center;
+}
+
+.MuscleCars {
+    margin:0;
+}
+
+.Categorias img {
+    border: 5px solid rgb(177, 163, 163);
+}
+.Categorias h1 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+    margin-left: 100px;
+    margin-bottom: 50px;
+}
+.Categorias p {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    margin-left: 20px;
+}
+.line {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    color: rgb(177, 163, 163);
+}
+
+.titulo2 {
+    color: rgb(177, 163, 163);
+    font-size: 30px;
+    margin-left: 550px;
+}
+
+.linha1 {
+    display: flex;
+    justify-content: space-evenly;
+    align-items:center;
+  color: rgb(177, 163, 163);
+  margin-top: 10px;
+  margin-bottom: 25px; 
+}
+
+.linha2 {
+    display: flex;
+    justify-content: space-evenly;
+    align-items:center;
+  color: rgb(177, 163, 163);
+  margin-top: 10px;
+  margin-bottom: 25px; 
+}
+
+.linha3 {
+    display: flex;
+    justify-content: space-evenly;
+    align-items:center;
+  color: rgb(177, 163, 163);
+  margin-top: 10px;
+  margin-bottom: 25px; 
+}
+
+.fotos img {
+    border: 5px solid rgb(177, 163, 163);
+}
+
+.fotos h1 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    margin-left: 10px;
+    margin-bottom: 20px;
+    margin-top: 10px;
+}
+
+html {
+    max-width: 1920px;
+}
+
+.titulo3 h1 {
+    color: rgb(177, 163, 163);
+    font-size: 30px;
+    margin-left: 600px;
+    margin-top:30px;
+    
+}
+
+.titulo3 p {
+    color: rgb(177, 163, 163);
+    font-size: 20px;
+    margin-left: 400px;
+    margin-top:10px;
+    margin-bottom: 30px;
+}
+
+.infos {
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(177, 163, 163);
+}
+
+.first-line {
+    display: flex;
+    justify-content:space-between; 
+    margin-left: 250px;
+    margin-right: 250px;
+    margin-bottom: 20px;
+}
+
+.second-line {
+    display: flex;
+    justify-content:space-between; 
+    margin-left: 250px;
+    margin-right: 250px;
+    margin-bottom: 150px; 
+}
+
+.footer {
+    color: rgb(177, 163, 163);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+    margin-left: 330px;
+    margin-bottom: 75px;
+}
+.adress {
+    margin-right:57px;
+}
